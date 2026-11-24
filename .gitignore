@@ -1,4 +1,3 @@
-
 # Unity generated folders
 [Ll]ibrary/
 [Tt]emp/
@@ -22,3 +21,14 @@
 # OS files
 .DS_Store
 Thumbs.db
+*.user
+*.userprefs
+git add .
+
+git status
+
+
+T
+
+
+
